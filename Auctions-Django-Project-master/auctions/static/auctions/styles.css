@@ -1,0 +1,38 @@
+body {
+    padding: 10px;
+    text-align: center;
+}
+.message{
+    background-color:  #15317E;
+    color: white;
+    padding: 2vw;
+}      
+
+.nav{
+    margin-top: 2.5vw;
+}
+a:link{
+    color:#556B2F
+}
+a:visited {
+  color: #556B2F;
+}
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: #556B2F;
+}
+
+hr {
+        position: relative;
+        top: 20px;
+        border: none;
+        height: 12px;
+        background: black;
+        margin-bottom: 30px;
+        background-color:#556B2F;
+    }
